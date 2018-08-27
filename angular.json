@@ -23,10 +23,10 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css", "node_modules/bootstrap/dist/css/bootstrap.min.css"
             ],
             "scripts": []
-          },
+          }, //C:\Users\Administrator\toDo\node_modules\bootstrap\dist\css
           "configurations": {
             "production": {
               "fileReplacements": [
